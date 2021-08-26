@@ -36,4 +36,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xtheanonymous)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Unknown Sama#6133)
 ![stats](https://github-readme-stats.vercel.app/api?username=Unknown-san&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=FFDF00&bg_color=808080&hide=bg-color&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={Unknown-San})
+
