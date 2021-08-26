@@ -4,7 +4,7 @@
 
 ### About Me:
 
-<b>
+<i>
   Name: Aaryan Gautam 
   
   - Nationality: Indian.
