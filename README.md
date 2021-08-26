@@ -34,6 +34,6 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Unknown-San)
 [![Instagram](https://img.shields.io/badge/-Instagram-FF90D8?style=for-the-badge&logo=Instagram&logoColor=gradientred)](https://www.instagram.com/_.aaryan_.__)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xtheanonymous)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Unknown Sama#6133)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Unknown_Sama#6133)
 ![stats](https://github-readme-stats.vercel.app/api?username=Unknown-san&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=FFDF00&bg_color=808080&hide=bg-color&hide_border=true)
 
