@@ -42,5 +42,5 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Unknown-san&show_icons=true&theme=radical)](https://github.com/Unknown-san)
 
-[![Spotify](https://spotify.unknown-san.me/api/spotify)](https://open.spotify.com/user/d6vpy8nwsduj2a9dlkcq4epvt?si=5e2420228aed43b8)
+[![Spotify](https://spotify.unknown-san.me/api/spotify)](https://open.spotify.com/user/5e2420228aed43b8)
 
