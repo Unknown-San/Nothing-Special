@@ -12,7 +12,7 @@
 
   - Cuurently Residing in Mumbai, Maharashtra, India.
   
-  ![ Nobara Superbot ](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-San&theme=blue-green)
+  ![ Unknown-San ](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-San&theme=blue-green)
   
 
  </i> 
@@ -37,5 +37,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E44dsada5F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.aaryan_.__)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xtheanonymous)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Unknown_Sama#6133)
-![stats](https://github-readme-stats.vercel.app/api?username=Unknown-san&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=FFDF00&bg_color=808080&hide=bg-color&hide_border=true)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Unknown-san&show_icons=true&theme=radical)](https://github.com/Unknown-san)
+
 
