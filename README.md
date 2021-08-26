@@ -29,7 +29,7 @@
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-## You Can Find Me At
+## <i>You Can Find Me At</i>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Unknown-San)
 [![Instagram](https://img.shields.io/badge/-Instagram-FF90D8?style=for-the-badge&logo=Instagram&logoColor=gradientred)](https://www.instagram.com/_.aaryan_.__)
