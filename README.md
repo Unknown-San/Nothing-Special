@@ -44,4 +44,4 @@
 
 ## Time spent
 
-[![[Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=Unknown-san&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Unknown-san&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
