@@ -12,6 +12,7 @@
 
   - Cuurently Residing in Mumbai, Maharashtra, India.
   
+  ![ Nobara Superbot ](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-sama&theme=blue-green)
   
 
  </i> 
