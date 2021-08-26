@@ -1,8 +1,8 @@
 ## Hello There. :wave:
 
-<img src = "https://telegra.ph/file/58d2c68ed2c62626e7c5e.mp4">
+<gif src = "https://telegra.ph/file/58d2c68ed2c62626e7c5e.mp4">
 
-<gif src="https://telegra.ph/file/a9c64f733787ddf4ba774.jpg">
+<img src="https://telegra.ph/file/a9c64f733787ddf4ba774.jpg">
 
 ### About Me:
 
