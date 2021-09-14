@@ -41,5 +41,5 @@
 ## Stats
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Unknown-san&show_icons=true&theme=radical)](https://github.com/Unknown-san)
-
+<a href="https://open.spotify.com/user/h3dnsm3a6xwphxuyrl3q12qjb"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
 
