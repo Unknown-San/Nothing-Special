@@ -44,5 +44,5 @@
 
 <h2>🎧  Now listening </h2>
 
-<a href="https://open.spotify.com/user/h3dnsm3a6xwphxuyrl3q12qjb"><img src="https://spotify-readme-silk-seven.vercel.app/api/spotify" alt="wrench's current Playing" width="90%" align="center" /></a>
+<a href="https://open.spotify.com/user/d6vpy8nwsduj2a9dlkcq4epvt"><img src="https://spotify-readme-silk-seven.vercel.app/api/spotify" alt="wrench's current Playing" width="90%" align="center" /></a>
 
