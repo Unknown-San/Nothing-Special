@@ -10,7 +10,7 @@
   - Nationality: Indian.
   
 
-  - Cuurently Residing in Mumbai, Maharashtra, India.
+  - Currently Residing in Mumbai, Maharashtra, India.
   
   ![ Unknown-San ](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-San&theme=blue-green)
   
