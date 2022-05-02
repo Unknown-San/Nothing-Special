@@ -34,7 +34,7 @@
 ## <i>You Can Find Me At</i>
 <a href="https://open.spotify.com/user/d6vpy8nwsduj2a9dlkcq4epvt"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Unknown-San)
-[![Instagram](https://img.shields.io/badge/Instagram-E44dsada5F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.aaryan_.__)
+[![Instagram](https://img.shields.io/badge/Instagram-E44dsada5F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x_theanonymous)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xtheanonymous)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Unknown_Sama#6133)
 
