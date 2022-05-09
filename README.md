@@ -42,7 +42,10 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Unknown-san&show_icons=true&theme=radical)](https://github.com/Unknown-san)
 
-<h2>🎧 Now Vibing On 🎧</h2>
+### Spotify Playing 🎧
 
-<a href="https://open.spotify.com/user/d6vpy8nwsduj2a9dlkcq4epvt"><img src="https://spotify-readme-silk-seven.vercel.app/api/spotify" alt="wrench's current Playing" width="90%" align="center" /></a>
+<p align="center">
+  <a href="https://open.spotify.com/user/31exqvqqzu7qvai464depjlzixci" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
 
